@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabrizio</h1>
 <h3 align="center">Learning all about Frontend/Backend development</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/chufi300?tab=repositories](Repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/chufi300?tab=repositories)
 
 - 📫 How to reach me **fabrizio3522@gmail.com**
 
